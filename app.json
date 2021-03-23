@@ -1,0 +1,12 @@
+{
+  "name": "tabuada",
+  "displayName": "tabuada",
+  "expo": {
+    "name": "tabuada",
+    "slug": "tabuada",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
